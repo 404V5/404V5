@@ -1,16 +1,15 @@
 ### Hi there 👋
-
-<!--
-**404V5/404V5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+<li>我是一名火葬场低级后端切图仔</li>
+<li>不要为为什么后端也要切图，爱过</li>
+<li>我正在漫无目的的学习</li>
+<li>我目前没有对开源事业有任何贡献</li>
+<li>我喜欢吃饭睡觉打豆豆</li>
+<li>我代码水平不高</li>
+<li>目前居于北京</li>
+<li>喜欢自言自语，朋友喜欢把他们自己比作小黄鸭</li>
+<li>想爱生活，但是穷阻止我膨胀</li>
+<li>联系方式：
+<ul><li>qq: 1159981820</li>
+</ul>
+</ul>
